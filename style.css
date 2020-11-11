@@ -47,16 +47,16 @@ font-size: 29px;}
 .nav-list{
 	border-top:thin;
 	border-bottom:thin;
+	background-color: black;
+}
+
+.nav-list-item a{
 	font-size: 35;
 	font-family: adamina;
 	line-height:2.4em;
 	text-align: center;
 	margin:auto;
-	background-color: black;
-
-
 }
-
 h3{
 	font-size: 40;
 	border-top:thin;
