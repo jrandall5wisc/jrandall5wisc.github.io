@@ -25,7 +25,7 @@ note{
 
 
 
-figure{
+.figure{
 background-color: black;
 font-size: 29px;}
 
@@ -44,7 +44,7 @@ font-size: 29px;}
 	color: blanchedalmond;
 }
 
-nav{
+.nav-list{
 	border-top:thin;
 	border-bottom:thin;
 	font-size: 35;
@@ -52,6 +52,8 @@ nav{
 	line-height:2.4em;
 	text-align: center;
 	margin:auto;
+	background-color: black;
+
 
 }
 
