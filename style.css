@@ -11,7 +11,7 @@ body{color:blanchedalmond;
 
 h1{color: blanchedalmond;
 font-size: 28px;
-	font-family:adamina, Arial, serif;
+font-family:adamina, Arial, serif;
 	}
 
 note{
@@ -59,7 +59,7 @@ p{
 font-size: 30px;
 color: blanchedalmond;
 font-family: sans-seriff;
-	margin: center;
+	
 }
 
 a:link, a:visited {
@@ -68,15 +68,16 @@ text-decoration: underline;
 }
 
 nav{
-	border-top:thin;
-	border-bottom:thin;
-	background-color: black;
+border-top:thin;
+border-bottom:thin;
+background-color: black;
+font-size:35px;
+font-family: adamina;
+line-height:2.4em;
+text-align: center;
+margin:auto;
 }
 
-nav-list-item a{
-	font-size:35px;
-	font-family: adamina;
-	line-height:2.4em;
-	text-align: center;
-	margin:auto;
-}
+
+	
+
