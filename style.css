@@ -22,11 +22,10 @@ note{
 
 }
 
-h2{background-color:black;
- font-family:adamina, Arial, sans-seriff;}
-}
 
-figcaption{
+
+
+figure{
 background-color: black;
 font-size: 29px;}
 
@@ -48,7 +47,7 @@ font-size: 29px;}
 nav{
 	border-top:thin;
 	border-bottom:thin;
-	font-size: 34;
+	font-size: 35;
 	font-family: adamina;
 	line-height:2.4em;
 	text-align: center;
