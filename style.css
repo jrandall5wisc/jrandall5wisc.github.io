@@ -44,19 +44,7 @@ font-size: 29px;}
 	color: blanchedalmond;
 }
 
-.nav-list{
-	border-top:thin;
-	border-bottom:thin;
-	background-color: black;
-}
 
-.nav-list-item a{
-	font-size: 35;
-	font-family: adamina;
-	line-height:2.4em;
-	text-align: center;
-	margin:auto;
-}
 h3{
 	font-size: 40;
 	border-top:thin;
@@ -79,3 +67,16 @@ color: darkgrey;
 text-decoration: underline;	
 }
 #nav { text-align:center; }
+.nav-list{
+	border-top:thin;
+	border-bottom:thin;
+	background-color: black;
+}
+
+.nav-list-item a{
+	font-size: 35;
+	font-family: adamina;
+	line-height:2.4em;
+	text-align: center;
+	margin:auto;
+}
