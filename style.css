@@ -5,7 +5,7 @@
 body{color:blanchedalmond;
 	background-color:#1C16C0;
 	font-size: 50;
-	margin-left:20px;
+	margin-left:50px;
 }
 
 
@@ -56,7 +56,7 @@ i{
 font-size: 30px;}
 
 p{ 
-font-size: 24px;
+font-size: 30px;
 color: blanchedalmond;
 font-family: sans-seriff;
 }
@@ -73,7 +73,7 @@ text-decoration: underline;
 }
 
 nav-list-item a{
-	font-size: 35;
+	font-size:35px;
 	font-family: adamina;
 	line-height:2.4em;
 	text-align: center;
