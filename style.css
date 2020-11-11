@@ -66,14 +66,14 @@ a:link, a:visited {
 color: darkgrey;
 text-decoration: underline;	
 }
-#nav { text-align:center; }
-.nav-list{
+
+navigation{
 	border-top:thin;
 	border-bottom:thin;
 	background-color: black;
 }
 
-.nav-list-item a{
+nav-list-item a{
 	font-size: 35;
 	font-family: adamina;
 	line-height:2.4em;
